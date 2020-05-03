@@ -24,7 +24,7 @@ public class GraphicNotes
         dog.add(label);
         dog.add(button);
         dog.add(pic);
-        dog.setBackground(new Color(200,50,7));
+        dog.setBackground(new Color(0,250,0));
         
        Container cat = pony.getContentPane();
        
